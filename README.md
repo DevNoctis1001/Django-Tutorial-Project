@@ -30,7 +30,5 @@ These are the basic steps to get started with Django, but there are many other f
 
 📌 If you enjoy this repo, don't forget to give me a ✨. Thanks for reading 😀
 
-🔗 Let's connect [YouTube](http://youtube.com/tirendazacademy) | [Medium](http://tirendazacademy.medium.com) | [Twitter](http://twitter.com/tirendazacademy) | [Instagram](https://www.instagram.com/tirendazacademy) 😎
-
 
 
