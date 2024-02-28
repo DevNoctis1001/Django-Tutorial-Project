@@ -1,4 +1,4 @@
-![](https://github.com/TirendazAcademy/DJANGO-TUTORIAL/blob/master/Images/Django.png)
+![](https://github.com/DevNoctis1001/Django-Tutorial-Project/blob/main/Images/Django.png)
 
 [![](https://img.shields.io/badge/Python-00092C?&style=plastic&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/Django-DC3535?style=plastic&logo=django&logoColor=white)]()
