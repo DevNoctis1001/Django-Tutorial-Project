@@ -18,7 +18,7 @@ This repository contains sample projects and tutorials that demonstrate how to u
 
 - Creating views: Views handle the logic for handling user requests and returning responses. In Django, you define views in the views.py file within your app.
 
-- Creating templates: Templates define the structure and layout of your HTML pages. In Django, you define templates in the templates directory within your app.
+- Creating templates: Templates define the structure and layout of your HTML pages. In Django, you define templates in the templates directory within your app.                          
   
 - Mapping URLs: Finally, you need to map URLs to views in the urls.py file within your app.
 
